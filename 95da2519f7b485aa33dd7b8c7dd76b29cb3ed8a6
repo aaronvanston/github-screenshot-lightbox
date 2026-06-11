@@ -1,0 +1,55 @@
+src/meta.ts
+  s_44b5b2a4ba08c0::t_3f321625747cbe 1-10
+src/icons.ts
+  s_44b5b2a4ba08c0::t_0c74ee86d1429e 1-34
+scripts/build.ts
+  s_44b5b2a4ba08c0::t_e901def72d0f58 3-18,21-22
+  s_44b5b2a4ba08c0::t_635854de09c645 1-2,19-20,23-24
+src/types.ts
+  s_44b5b2a4ba08c0::t_3f321625747cbe 1-77
+package.json
+  s_44b5b2a4ba08c0::t_5ebe816f564f2e 7-14
+  s_44b5b2a4ba08c0::t_635854de09c645 1-6,15-19
+src/index.ts
+  s_44b5b2a4ba08c0::t_ff48d1ab06659d 1-10
+src/lightbox.ts
+  s_44b5b2a4ba08c0::t_ff48d1ab06659d 1-603
+tsconfig.json
+  s_44b5b2a4ba08c0::t_635854de09c645 1-12
+src/constants.ts
+  s_44b5b2a4ba08c0::t_3f321625747cbe 1-20
+src/github.ts
+  s_44b5b2a4ba08c0::t_3f321625747cbe 1-319
+github-screenshot-lightbox.user.js
+  s_44b5b2a4ba08c0::t_bc3d778a715207 19-352,354-361,437-447,502-615,747-820
+  s_44b5b2a4ba08c0::t_e6b8c839842370 353,363-382
+  s_44b5b2a4ba08c0::t_ae6e3dd0b77d18 15
+  s_44b5b2a4ba08c0::t_9737a419d4f244 451,623-653
+manifest.json
+  s_44b5b2a4ba08c0::t_635854de09c645 4
+src/zoom.ts
+  s_44b5b2a4ba08c0::t_0c74ee86d1429e 1-88
+README.md
+  s_44b5b2a4ba08c0::t_635854de09c645 17-21,44,72-73,80-84
+  s_44b5b2a4ba08c0::t_9e2c03f45da47c 5-10,25-35,74-79,86
+  s_44b5b2a4ba08c0::t_2de35362542ca9 15-16,53-54
+  s_44b5b2a4ba08c0::t_c124368246354b 55-56
+src/styles.ts
+  s_44b5b2a4ba08c0::t_0c74ee86d1429e 1-57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "95da2519f7b485aa33dd7b8c7dd76b29cb3ed8a6",
+  "prompts": {},
+  "sessions": {
+    "s_44b5b2a4ba08c0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eb3e2-efb3-7281-8c65-c9965c6f099a",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Aaron Vanston <aaronvanston@users.noreply.github.com>"
+    }
+  }
+}
