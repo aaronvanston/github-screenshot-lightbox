@@ -1,0 +1,21 @@
+README.md
+  s_44b5b2a4ba08c0::t_9e2c03f45da47c 5-10,25,34-35,74-79,86
+package.json
+  s_44b5b2a4ba08c0::t_5ebe816f564f2e 7-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "749727c21ad0fe39929e34b73e29fa4809b6deb6",
+  "prompts": {},
+  "sessions": {
+    "s_44b5b2a4ba08c0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eb3e2-efb3-7281-8c65-c9965c6f099a",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Aaron Vanston <aaronvanston@users.noreply.github.com>"
+    }
+  }
+}
