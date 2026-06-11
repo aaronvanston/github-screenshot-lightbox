@@ -1,0 +1,19 @@
+README.md
+  s_44b5b2a4ba08c0::t_1cfde59aff9b1d 3-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "831e0431064f2469c9072a1a102023c7d04e749a",
+  "prompts": {},
+  "sessions": {
+    "s_44b5b2a4ba08c0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eb3e2-efb3-7281-8c65-c9965c6f099a",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Aaron Vanston <aaronvanston@users.noreply.github.com>"
+    }
+  }
+}
