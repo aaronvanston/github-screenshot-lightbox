@@ -1,0 +1,30 @@
+github-screenshot-lightbox.user.js
+  s_44b5b2a4ba08c0::t_e6b8c839842370 587,590,592-614,618-633,635-639,643-690,692-696,698-700,702-707
+  s_44b5b2a4ba08c0::t_2b30d5ccf16c05 495,497,523,548
+  s_44b5b2a4ba08c0::t_826fa9a537cc3a 721,728
+  s_44b5b2a4ba08c0::t_9dd98b5027286c 799,825,838,855
+  s_44b5b2a4ba08c0::t_ae6e3dd0b77d18 4,21-24,46-47,58-59
+  s_44b5b2a4ba08c0::t_9737a419d4f244 880,882-888,893-898,902,907-908,918,926-929,948-965
+  s_44b5b2a4ba08c0::t_f28891256d1c07 417,420-422,424,426,433-435,437-439,441-442,445-447,450-451,454,458
+  s_44b5b2a4ba08c0::t_2c2e0b2b9e8824 1020
+README.md
+  s_44b5b2a4ba08c0::t_c124368246354b 11,47-48,64
+manifest.json
+  s_44b5b2a4ba08c0::t_c124368246354b 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "55ab8aa6e1c839104b351521e81fb2d061185fa6",
+  "prompts": {},
+  "sessions": {
+    "s_44b5b2a4ba08c0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eb3e2-efb3-7281-8c65-c9965c6f099a",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Aaron Vanston <aaronvanston@users.noreply.github.com>"
+    }
+  }
+}
