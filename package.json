@@ -1,0 +1,19 @@
+{
+  "name": "github-screenshot-lightbox",
+  "version": "0.4.0",
+  "description": "Open GitHub screenshots and image attachments in a lightweight in-page lightbox.",
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaronvanston/github-screenshot-lightbox.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aaronvanston/github-screenshot-lightbox/issues"
+  },
+  "homepage": "https://github.com/aaronvanston/github-screenshot-lightbox#readme",
+  "scripts": {
+    "build": "bun run scripts/build.ts",
+    "check": "bun run build && bun --print \"'build ok'\""
+  }
+}

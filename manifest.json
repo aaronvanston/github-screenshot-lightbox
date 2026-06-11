@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "GitHub Screenshot Lightbox",
+  "version": "0.4.0",
+  "description": "Open GitHub screenshots and image attachments in a lightweight in-page lightbox.",
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/*"],
+      "js": ["github-screenshot-lightbox.user.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
